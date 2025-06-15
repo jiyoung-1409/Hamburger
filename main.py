@@ -18,7 +18,7 @@ bg_rect = BG.get_rect()
 bg_h = bg_rect[3]
 bg_w = bg_rect[2]
 
-font = pygame.font.Font('Marygold/arial.ttf', 15)
+font = pygame.font.Font('./image/arial.ttf', 15)
 
 LOC = "bg_1"
 
